@@ -1,6 +1,6 @@
 :root {
-    --color: #663399;
-    --txt: rgb(185, 185, 185);
+    --color: #17dc42;
+    --txt: rgb(240, 235, 235);
 }
 
 * {
@@ -31,7 +31,7 @@
 
 .logo {
     height: auto;
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(19, 79, 209, 0.4);
     position: relative;
     top: 20vh;
     gap: 1vw;
@@ -46,7 +46,7 @@
 
 .right {
     width: 60vw;
-    background-color: #000000;
+    background-color: #b44848;
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
@@ -67,7 +67,7 @@
 }
 
 .form {
-    background-color: rgb(6, 6, 6);
+    background-color: rgb(242, 8, 214);
     display: flex;
     flex-flow: row wrap;
     gap: 20px;
